@@ -1,0 +1,1 @@
+This is a repo containing C++ Projects assignments I have done in the CS106X material, a course provided by Stanford University. I went through the course materials in a months time to understand Data structures and algorithms, and Object-oriented programming.
