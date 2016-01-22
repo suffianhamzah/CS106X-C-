@@ -1,0 +1,10 @@
+# This board requires backtracking to solve correctly
+7
+7
+XX---XX
+XXO--XX
+--O----
+-O-OO--
+-------
+XX---XX
+XX---XX

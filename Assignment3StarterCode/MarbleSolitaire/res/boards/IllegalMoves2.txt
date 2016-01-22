@@ -1,0 +1,10 @@
+# This board cannot be won with legal moves.
+7
+7
+XX---XX
+XX---XX
+-------
+---O---
+----O--
+XX---XX
+XX---XX

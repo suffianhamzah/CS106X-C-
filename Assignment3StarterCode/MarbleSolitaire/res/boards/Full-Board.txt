@@ -1,0 +1,10 @@
+# This board is default starting config
+7
+7
+XXOOOXX
+XXOOOXX
+OOOOOOO
+OOO-OOO
+OOOOOOO
+XXOOOXX
+XXOOOXX

@@ -1,0 +1,10 @@
+# This board takes 7 steps to win on
+7
+7
+XXO--XX
+XXOO-XX
+-------
+-O-----
+--O--O-
+XX--OXX
+XX--OXX
